@@ -1,7 +1,7 @@
 <div align="center" ><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40px' align="center"/>  </div>
 
-<h2 align="center">Hello My name is Oleksandr, I'm Front-end Developer / JS / React.</h2><br>
-<h3 align="center">In my work as a developer, I use such languages and technologies as JavaScript, React.js, Material-UI</h3><br>
+<h2 align="center">Hello My name is Oleksandr</h2><br>
+<h3 align="center">I'm a js developer who works with the following technologies: JavaScript, React.js, Material-UI</h3><br>
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif"  align="right" />
 
@@ -50,7 +50,7 @@
 ### ⚙️ &nbsp; <b> GitHub Analytics </b>
 
 <p align="center">
-<a href="https://github.com/tibtus">
+<a href="https://github.com/alexHorov">
   <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tibtus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tibtus&layout=compact&langs_count=8&theme=algolia"/>
 </a>
