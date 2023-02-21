@@ -33,7 +33,7 @@
   <a href="https://github.com/alexHorov/x-course-task">Book shop</a>   
   <br>
   - Test task from the company on vanilla js  -
-  <a href="https://github.com/alexHorov/MovieGalary">Test task on VanillaJS - 17_04_2022</a>   
+  <a href="https://github.com/alexHorov/MovieGalary">Test task on VanillaJS</a>   
   
 </div>
 
